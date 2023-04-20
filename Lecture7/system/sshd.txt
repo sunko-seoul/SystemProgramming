@@ -1,0 +1,2 @@
+106107 19786 19785   0 11:45AM ttys000    0:00.00 sh -c ps -ef | grep sshd > sshd.txt
+106107 19788 19786   0 11:45AM ttys000    0:00.00 grep sshd
